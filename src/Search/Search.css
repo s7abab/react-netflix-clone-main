@@ -1,0 +1,37 @@
+.main {
+  color: #fff;
+  margin-top: 3rem;
+}
+
+.container {
+  display: flex;
+  gap: 10px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 5rem;
+  margin-top: -2rem;
+}
+
+.search {
+  text-align: center;
+  padding: 2rem;
+}
+
+.search > h1 {
+  padding-bottom: 2rem;
+}
+
+.search-form {
+  border-radius: 5px;
+  height: 10px;
+  padding: 0.8rem;
+  margin-right: 5px;
+}
+
+.search-btn {
+  border-radius: 5px;
+  padding: 0.6rem;
+  background-color: #E50914;
+  color: white;
+  border: none;
+}
